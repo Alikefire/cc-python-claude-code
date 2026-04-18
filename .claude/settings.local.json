@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/33794/Desktop/学校/求职/课程资源/cc-python-claude/cc -type f -name \"*.py\" -exec cat {} +)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)",
+      "Bash(git commit:*)",
+      "Bash(gh auth:*)",
+      "Bash(where gh:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}
